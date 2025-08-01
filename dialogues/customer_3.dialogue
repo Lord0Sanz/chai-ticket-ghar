@@ -1,0 +1,9 @@
+~ start
+set Global.player_locked = true
+Customer Ji: Arey Dada ji, suniye toh zara!  
+Customer Ji: Chaar cup Ginger wali chai dena...  
+Customer Ji: Aur haan, do Masala wali bhi dal dijiye.  
+Customer Ji: Jaldi kijiye na... log wait kar rahe hain, adda shuru hone wala hai! 
+set Global.has_talked_to_customer_3 = true 
+set Global.player_locked = false
+=> END

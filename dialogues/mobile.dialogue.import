@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://csqfqu77246lp"
+path="res://.godot/imported/mobile.dialogue-e76c3488ffaf490d2112ad66cc36d573.tres"
+
+[deps]
+
+source_file="res://dialogues/mobile.dialogue"
+dest_files=["res://.godot/imported/mobile.dialogue-e76c3488ffaf490d2112ad66cc36d573.tres"]
+
+[params]
+
+defaults=true

@@ -1,0 +1,8 @@
+~ start
+set Global.player_locked = true
+Customer Ji: Bhaiya ji, ek masala chai bana do zara...  
+Customer Ji: Aur haan, do ginger chai bhi chahiye garam garam!  
+Customer Ji: Jaldi se bana do na, bhaiya ji der ho rahi hai!  
+set Global.has_talked_to_customer_1 = true
+set Global.player_locked = false
+=> END

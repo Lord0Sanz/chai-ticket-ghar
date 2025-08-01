@@ -1,0 +1,7 @@
+~ start
+set Global.player_locked = true
+Rajeev Ji: Logon ko tameez hi nahi hai.
+Rajeev Ji: Ab kya hi kar sakte hain...
+Rajeev Ji: Pata nahi, log kab sudhrenge!
+set Global.player_locked = false
+=> END

@@ -1,0 +1,8 @@
+~ start
+set Global.player_locked = true
+Customer Ji: Brooo, 3 coffees — the strong wala types, okay?  
+Customer Ji: Also need one elaichi chai... mood set karna hai boss!  
+Customer Ji: Thoda fast banado please, already late af.
+set Global.has_talked_to_customer_2 = true 
+set Global.player_locked = false
+=> END

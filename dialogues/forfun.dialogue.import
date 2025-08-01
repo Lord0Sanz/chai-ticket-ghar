@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://clr5pi1srnnyo"
+path="res://.godot/imported/forfun.dialogue-aecf679e269ae6e1272c30285579165c.tres"
+
+[deps]
+
+source_file="res://dialogues/forfun.dialogue"
+dest_files=["res://.godot/imported/forfun.dialogue-aecf679e269ae6e1272c30285579165c.tres"]
+
+[params]
+
+defaults=true

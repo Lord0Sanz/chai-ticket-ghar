@@ -1,0 +1,5 @@
+~ start
+set Global.player_locked = true
+Rajeev Ji: Developer baadmein banayega!
+set Global.player_locked = false
+=> END

@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bl5asi7cfwuhs"
+path.s3tc="res://.godot/imported/assets_fin_building.png-077f394ad01b24adde62484af0e5b0b0.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "6597acbae0ddf92a7a297f220fa93b3e"
+}
+
+[deps]
+
+source_file="res://assets/meshes/assets_fin_building.png"
+dest_files=["res://.godot/imported/assets_fin_building.png-077f394ad01b24adde62484af0e5b0b0.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

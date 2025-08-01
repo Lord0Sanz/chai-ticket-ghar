@@ -1,0 +1,48 @@
+[gd_scene load_steps=5 format=3 uid="uid://g03rr07arro1"]
+
+[ext_resource type="Script" uid="uid://bxoun05bfs7wo" path="res://script/ending.gd" id="1_fyrdv"]
+[ext_resource type="FontFile" uid="uid://c5gym3juru4ss" path="res://assets/fonts/Handwritten.ttf" id="1_mqjok"]
+[ext_resource type="AudioStream" uid="uid://c2kpc82et7x5t" path="res://assets/sfx/bgm.ogg" id="3_nfmnx"]
+[ext_resource type="AudioStream" uid="uid://bu5yqoijqqlhb" path="res://assets/sfx/chirping.ogg" id="4_qa3ag"]
+
+[node name="Ending" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_fyrdv")
+
+[node name="fade" type="ColorRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+color = Color(0, 0, 0, 1)
+
+[node name="title" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_fonts/font = ExtResource("1_mqjok")
+theme_override_font_sizes/font_size = 30
+text = "Homebound"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Bgm" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("3_nfmnx")
+volume_db = -20.0
+autoplay = true
+
+[node name="Chirping" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("4_qa3ag")
+volume_db = -10.0
+autoplay = true

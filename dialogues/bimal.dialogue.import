@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://dev5sdhk8dnol"
+path="res://.godot/imported/bimal.dialogue-0af494fe7c43d3f32a56694b3f187825.tres"
+
+[deps]
+
+source_file="res://dialogues/bimal.dialogue"
+dest_files=["res://.godot/imported/bimal.dialogue-0af494fe7c43d3f32a56694b3f187825.tres"]
+
+[params]
+
+defaults=true

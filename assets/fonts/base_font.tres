@@ -1,0 +1,6 @@
+[gd_resource type="FontVariation" load_steps=2 format=3 uid="uid://rvh17st5x4vo"]
+
+[ext_resource type="FontFile" uid="uid://c5gym3juru4ss" path="res://assets/fonts/Handwritten.ttf" id="1_l8u0x"]
+
+[resource]
+base_font = ExtResource("1_l8u0x")

@@ -1,0 +1,15 @@
+~ start
+set Global.player_locked = true
+Ticket Collector Mishra Ji: Namaste, Rajeev ji. Aapke paas 400 aa gaye?
+if Global.money >= 400
+	Rajeev Ji: Han yeh lijiye
+	Ticket Collector Mishra Ji: Badiyah, apko Shubh yaatra!! yeh lijiye apka ticket
+	set Global.end_unlocked = true
+	set Global.player_locked = false
+	=> END
+else Global.money == 400
+	Rajeev Ji: Mein jaldi leke aatahun
+	Ticket Collector Mishra Ji: Jaldi, laayiye toh mein apka ticket dun!
+	set Global.end_unlocked = false
+	set Global.player_locked = false
+	=> END

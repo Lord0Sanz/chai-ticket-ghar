@@ -1,0 +1,14 @@
+~ start
+set Global.player_locked = true
+Ticket Collector Mishra Ji: Namaste, Rajeev ji. Aapki kuch madad kar sakta hoon?
+Rajeev Ji: Namaste Mishra ji. Ek zaroori baat hai.
+Rajeev Ji: Bade bhai sahab kal laut rahe hain... army se. Ghar jaana zaroori hai.
+Rajeev Ji: Shyamgarh se Gaon tak ka ticket chahiye.
+Ticket Collector Mishra Ji: Hmm... theek hai. Shyamgarh se aapke gaon tak ka kiraya 700 hoga.
+Rajeev Ji: 700 thoda zyada ho gaya, Mishra ji...
+Rajeev Ji: Aap jaante hain, haalaat kaise hain. Ye safar zaroori hai.
+Ticket Collector Mishra Ji: Samajh sakta hoon, Rajeev ji. Aapka bhai desh ke liye duty kar raha hai... uska swagat toh banta hai.
+Ticket Collector Mishra Ji: Theek hai... 400 de dijiye. Baaki main dekh loonga.
+set Global.has_talked_to_tc = true
+set Global.player_locked = false
+=> END

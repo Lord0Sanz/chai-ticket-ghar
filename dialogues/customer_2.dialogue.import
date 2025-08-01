@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://cl0j5601imios"
+path="res://.godot/imported/customer_2.dialogue-28dc0a13bf6556d0fb637990dd646f3c.tres"
+
+[deps]
+
+source_file="res://dialogues/customer_2.dialogue"
+dest_files=["res://.godot/imported/customer_2.dialogue-28dc0a13bf6556d0fb637990dd646f3c.tres"]
+
+[params]
+
+defaults=true

@@ -1,0 +1,14 @@
+~ start
+set Global.player_locked = true
+Wife: Namaste, Rajeev ji... sun rahe ho?
+Wife: Ek zaroori baat kehni thi...
+Wife: Aaj ek letter aaya... speed post se.
+Wife: Bade bhai sahab... army se wapas aa rahe hain.
+Wife: Itne saalon ke baad... ghar laut rahe hain.
+Wife: Letter mein likha hai... wo kal tak pahunch jaayenge.
+Wife: Please, Rajeev ji, Shyamgarh Junction se jaldi se jaldi waapas aa jao.
+Wife: Main chahti hoon ki hum dono milke unka swagat karein.
+Wife: Main intezaar kar rahi hoon... dhyan se aana, theek hai?
+set Global.has_talked_to_wife = true
+set Global.player_locked = false
+=> END
